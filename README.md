@@ -1,4 +1,4 @@
-Python Django Tutorial
+## Python Django Tutorial
 
 1. Launch VS Code Editor
 2. Ctrl + P and type git
