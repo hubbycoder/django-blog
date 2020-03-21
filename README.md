@@ -22,11 +22,11 @@
    (env) $ python manage.py migrate 
 12. Create an admin user:
    (env) $ python manage.py createsuperuser    
-   > Username: admin
-   > Email address: admin@example.com
-   > Password: **********
-   > Password (again): *********
-   > Superuser created successfully.
+   * Username: admin
+   * Email address: admin@example.com
+   * Password: **********
+   * Password (again): *********
+   * Superuser created successfully.
 13. Start the development server:
    (env) $ python manage.py runserver
 14. Open a Web browser:
