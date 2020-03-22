@@ -1,8 +1,8 @@
 from django.apps import AppConfig
 
 class UsersConfig(AppConfig):
-    name = 'users'
+    name = 'accounts'
 
     def ready(self):
-        import users.signals
+        import accounts.signals
 

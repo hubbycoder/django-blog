@@ -32,3 +32,12 @@
 14. Open a Web browser:
     * http://127.0.0.1:8000
     * http://127.0.0.1:8000/admin
+
+### How to leave/exit/deactivate a Python virtualenv
+Usually, activating a virtualenv gives you a shell function named:
+$ deactivate
+
+If you are trying to leave an Anaconda environment, the command depends upon your version of conda. 
+Recent versions (like 4.6) install a conda function directly in your shell, in which case you run:
+conda deactivate
+
